@@ -1,4 +1,4 @@
-**# Dummy_repository**
+# **Dummy_repository**
 This repository is to save a dummy program that I personally created. It is mainly used for the university courses. Such as cash flow analysis, low/high pass filter and etc...
 
 ## MSCI 261
